@@ -31,7 +31,6 @@ body {
 }
 
 .menu_link_active {
-  text-decoration: underline;
   text-decoration: none;
 }
 
@@ -128,7 +127,6 @@ main {
 }
 
 .bet-button {
-  border: 0px;
   display: flex;
   background-color: transparent;
   text-transform: uppercase;
